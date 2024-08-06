@@ -1,4 +1,4 @@
-module two-dimentional
+module two-dimentional-reed-solomon
 
 go 1.21.4
 
